@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Gustavo Toledo 👋
 
-<!--
-**Toledo02/Toledo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Engineer passionate about Test Automation and quality-driven development. I have experience in building automation frameworks from scratch, working with tools like Robot Framework, Cypress, Selenium, Maestro, and more.
 
-Here are some ideas to get you started:
+Currently, I work at Agrotis, developing automation solutions for web and mobile applications, contributing to the improvement of product quality and process efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools:
+- **Automation:** Robot Framework, Cypress, Selenium WebDriver, Cucumber, Maestro
+- **Languages:** Python, Java, JavaScript
+- **Tools & Platforms:** Postman, Docker, Git, GitHub Actions, Bitbucket, GitLab, Jenkins
+- **Methodologies:** Agile (Scrum/Kanban)
+
+## 🚀 Goals:
+- Share projects and test automation solutions I have developed.
+- Create new automation frameworks and contribute to open-source projects.
+- Keep learning and improving in the field of QA and Software Testing.
+
+## 📫 How to reach me:
+- LinkedIn: [Gustavo Toledo](https://www.linkedin.com/in/gustavotoledo02/)
+- GitHub: [Toledo02](https://github.com/Toledo02)
+
+---
+
+Let's build better tests and deliver quality software together! 🚀
