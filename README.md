@@ -21,4 +21,4 @@ Currently, I work developing automation solutions for web and mobile application
 
 ---
 
-Let's build better tests and deliver quality software together! 🚀
+Let's build better tests and deliver quality software together! 🧪🔎
