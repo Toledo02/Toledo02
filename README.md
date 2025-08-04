@@ -1,13 +1,13 @@
-# Hi there, I'm Gustavo Toledo 👋
+# Hi there, I'm Gustavo Toledo 😎
 
 I'm a QA Engineer passionate about Test Automation and quality-driven development. I have experience in building automation frameworks from scratch, working with tools like Robot Framework, Cypress, Selenium, Maestro, and more.
 
-Currently, I work at Agrotis, developing automation solutions for web and mobile applications, contributing to the improvement of product quality and process efficiency.
+Currently, I work developing automation solutions for web and mobile applications, contributing to the improvement of product quality and process efficiency.
 
 ## 🔧 Technologies & Tools:
 - **Automation:** Robot Framework, Cypress, Selenium WebDriver, Cucumber, Maestro
 - **Languages:** Python, Java, JavaScript
-- **Tools & Platforms:** Postman, Docker, Git, GitHub Actions, Bitbucket, GitLab, Jenkins
+- **Tools & Platforms:** Postman, Docker, Git, Jira, Jenkins
 - **Methodologies:** Agile (Scrum/Kanban)
 
 ## 🚀 Goals:
