@@ -18,7 +18,8 @@ Currently, I work developing automation solutions for web and mobile application
 
 ## 📫 How to reach me:
 - LinkedIn: [Gustavo Toledo](https://www.linkedin.com/in/gustavotoledo02/)  
-- GitHub: [Toledo02](https://github.com/Toledo02)  
+- GitHub: [Toledo02](https://github.com/Toledo02)
+- E-mail: gustavotoledo02@gmail.com
 
 ---
 
