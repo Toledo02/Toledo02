@@ -16,7 +16,7 @@ I am a QA Engineer focused on modern automation and integrating Artificial Intel
 | :--- | :--- |
 | **Web/Mobile Automation** | Playwright, Robot Framework, Maestro |
 | **Languages** | JavaScript, Python, Java |
-| **AI & Productivity** | GitHub Copilot, Cursor, n8n, Prompt Engineering |
+| **AI & Productivity** | GitHub Copilot, Cursor, MCP, Prompt Engineering |
 | **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, Azure, OCI |
 | **Testing Types** | Functional, E2E, Load Testing, Mobile Testing |
 
