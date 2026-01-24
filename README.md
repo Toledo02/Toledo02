@@ -1,26 +1,33 @@
-# Hi there, I'm Gustavo Toledo 😎
+# Hi, I'm Gustavo Toledo 👋
 
-I'm a QA Engineer passionate about Test Automation and quality-driven development.  
-I have experience in building automation frameworks from scratch, working with tools like Robot Framework, Cypress, Selenium, Maestro, and more.
-
-Currently, I work developing automation solutions for web and mobile applications, contributing to the improvement of product quality and process efficiency.
-
-## ⚙️ Technologies & Tools:
-- **Automation:** 🤖 Robot Framework, Cypress, Selenium WebDriver, Cucumber, Maestro  
-- **Languages:** 🐍 Python, ☕ Java, JavaScript  
-- **Tools & Platforms:** Postman, 🐳 Docker, Git, Jira, Jenkins  
-- **Methodologies:** Agile (Scrum/Kanban)  
-
-## 🎯 Goals:
-- Share projects and test automation solutions I have developed.  
-- Create new automation frameworks and contribute to open-source projects.  
-- Keep learning and improving in the field of QA and Software Testing.  
-
-## 📫 How to reach me:
-- LinkedIn: [Gustavo Toledo](https://www.linkedin.com/in/gustavotoledo02/)  
-- GitHub: [Toledo02](https://github.com/Toledo02)
-- E-mail: gustavotoledo02@gmail.com
+I am a QA Analyst focused on modern automation and integrating Artificial Intelligence into the testing lifecycle.
 
 ---
 
-Let's build better tests and deliver quality software together! 🧪🔎🐞
+### 🚀 Current Focus
+* **Modern Automation:** Mastering **Playwright** for robust web and API testing.
+* **AI-Driven QA:** Leveraging **GitHub Copilot** and **Cursor** to optimize script generation and data management.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Web/Mobile Automation** | Playwright, Robot Framework, Maestro |
+| **Languages** | JavaScript, Python, Java |
+| **AI & Productivity** | GitHub Copilot, Cursor, n8n, Prompt Engineering |
+| **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, Azure, OCI |
+| **Testing Types** | Functional, E2E, Load Testing, Mobile Testing |
+
+---
+
+### 📈 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/gustavotoledo02">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+> "Committed to replacing manual processes with intelligent, automated, and efficient workflows."
