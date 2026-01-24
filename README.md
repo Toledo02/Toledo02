@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo Toledo 👋
 
-I am a QA Analyst focused on modern automation and integrating Artificial Intelligence into the testing lifecycle.
+I am a QA Engineer focused on modern automation and integrating Artificial Intelligence into the testing lifecycle.
 
 ---
 
@@ -30,4 +30,4 @@ I am a QA Analyst focused on modern automation and integrating Artificial Intell
   </a>
 </p>
 
-> "Committed to replacing manual processes with intelligent, automated, and efficient workflows."
+> Committed to replacing manual processes with intelligent, automated, and efficient workflows.
