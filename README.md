@@ -28,7 +28,7 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Toledo02&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     height="165"
@@ -41,7 +41,7 @@ I introduced the company's **first-ever load and stress testing baselines** usin
   />
 </p>
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Toledo02&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"
     alt="GitHub Streak"
