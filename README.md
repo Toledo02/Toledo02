@@ -13,6 +13,8 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 
 ### 💻 Tech Stack
 
+<div align="center">
+
 | Category | Technologies |
 | :--- | :--- |
 | **Web/Mobile Automation** | ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Maestro](https://img.shields.io/badge/Maestro-FFBB00?style=flat-square&logo=android&logoColor=black) |
@@ -23,6 +25,8 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 | **AI & Productivity** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8E75E4?style=flat-square&logo=githubcopilot&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-FF69B4?style=flat-square&logo=anthropic&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | **Testing Types** | `Functional` `E2E` `API` `Load` `Stress` `Usability` `Mobile` |
+
+</div>
 
 ---
 
