@@ -34,12 +34,12 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Toledo02&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats-toledo02s-projects.vercel.app/api?username=Toledo02&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toledo02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
+    src="https://github-readme-stats-toledo02s-projects.vercel.app/api/top-langs/?username=Toledo02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"
     height="165"
     alt="Top Languages"
   />
