@@ -1,5 +1,5 @@
 # Hi, I'm Gustavo Toledo 👨🏻‍💻
-**QA Engineer | Automation & AI-Driven Testing**
+**QA Engineer | Automation & AI-Assisted Testing**
 
 ---
 
