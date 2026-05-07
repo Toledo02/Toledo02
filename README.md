@@ -64,5 +64,3 @@ I introduced the company's **first-ever load and stress testing baselines** usin
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-> Committed to replacing manual processes with intelligent, automated, and efficient workflows.
