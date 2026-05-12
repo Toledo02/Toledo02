@@ -32,7 +32,7 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats-toledo02s-projects.vercel.app/api?username=Toledo02&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&v=1"
     height="165"
@@ -43,7 +43,7 @@ I introduced the company's **first-ever load and stress testing baselines** usin
     height="165"
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
