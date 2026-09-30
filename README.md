@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-QA Engineer with 2+ years of experience building automation ecosystems from scratch. At my current job, I built **3 test suites** (Web + Mobile) reaching **90% automated coverage** across 100+ tests, and pioneered the adoption of **GitHub Copilot, Cursor and Playwright MCP** — reducing script writing time by ~60% and enabling other QAs to adopt the tools.
+QA Engineer with 2+ years of experience building automation ecosystems from scratch. At my current job, I built **3 test suites** (Web + Mobile) reaching **80% automated coverage** across 200+ tests, and pioneered the adoption of **GitHub Copilot, Cursor and Playwright MCP** — reducing script writing time by ~60% and enabling other QAs to adopt the tools.
 
 I introduced the company's **first-ever load and stress testing baselines** using k6, and I actively integrate AI tools into my workflow to accelerate test creation and improve reliability across multiple product teams.
 
