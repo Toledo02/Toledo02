@@ -30,30 +30,6 @@ I introduced the company's **first-ever load and stress testing baselines** usin
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats-toledo02s-projects.vercel.app/api?username=Toledo02&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&v=1"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-toledo02s-projects.vercel.app/api/top-langs/?username=Toledo02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&v=1"
-    height="165"
-    alt="Top Languages"
-  />
-</p> -->
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Toledo02&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ### 📈 Let's Connect
 
 <p align="left">
